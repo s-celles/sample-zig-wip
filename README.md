@@ -17,7 +17,7 @@ daytona create https://github.com/daytonaio/sample-zig
 ```bash  
 zig init
 ```
-4. Build and run
+4. **Build and run**
 ```bash
 # Run all tests
 zig build test --summary all
